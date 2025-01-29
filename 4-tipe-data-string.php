@@ -2,17 +2,17 @@
 
 //contoh petik satu
 echo 'nama : ';
-echo 'Kemas M. Yunus';
+echo 'kousaka reina';
 // tidak bisa jalan \n nya
 echo '\n';
 
 echo "Name : ";
-echo "Kemas\t M. \tYunus";
+echo "oumae\tkumiko";
 
 echo <<<TEXT
-Jadi ini adalah contoh untuk membuat text yang
-lebih dari satu paragraf
-tipe datanya sss
+Mawar itu biru
+violet itu merah
+aku ingin ke kamar mandi
 TEXT;
 
 echo <<<'TEXT'
