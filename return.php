@@ -14,5 +14,5 @@ function waifuList(string $nama,string ...$waifu): string{
     
     return $result;
 }
-$waifuListSaya = waifuList("yunus", "elaina", "emilia", "reina", "kumiko");
+$waifuListSaya = strtoupper(waifuList("yunus", "elaina", "emilia", "reina", "kumiko"));
 echo $waifuListSaya;
