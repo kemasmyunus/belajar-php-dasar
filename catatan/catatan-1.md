@@ -3,7 +3,7 @@ PHP merupakan singkatan dari *PHP: Hypertext Preprocessor*. PHP adalah salah sat
 
 Salah satu keunggulan utama dari PHP adalah kemudahannya dalam dipelajari dan digunakan, terutama bagi pemula. Hal ini menjadikan PHP sangat populer dan banyak diadopsi oleh para pengembang web di seluruh dunia. Bahkan, sebagian besar situs web di internet dibangun menggunakan PHP, baik secara langsung maupun melalui platform berbasis PHP seperti WordPress, Joomla, dan Drupal.
 
-PHP memiliki sifat **open source**, yang berarti kode sumbernya tersedia secara bebas untuk dipelajari, dimodifikasi, dan disebarkan. Siapa pun dapat mengunduh PHP melalui situs resminya di [php.net](https://www.php.net), serta melihat dan berkontribusi pada kode sumbernya melalui [repository GitHub resmi PHP](https://github.com/php).
+> PHP memiliki sifat **open source**, yang berarti kode sumbernya tersedia secara bebas untuk dipelajari, dimodifikasi, dan disebarkan. Siapa pun dapat mengunduh PHP melalui situs resminya di [php.net](https://www.php.net), serta melihat dan berkontribusi pada kode sumbernya melalui [repository GitHub resmi PHP](https://github.com/php).
 
 Selain open source, PHP juga **gratis** untuk digunakan. Pengguna tidak dikenakan biaya lisensi atau penggunaan, yang menjadikan PHP sangat ideal, terutama bagi individu atau organisasi yang memiliki keterbatasan anggaran dalam pengembangan sistem.
 
